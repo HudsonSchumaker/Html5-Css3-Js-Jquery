@@ -1,3 +1,8 @@
+/*
+Hudson Schumaker
+SchumakerTeam Lab
+*/
+
 function inserePlacar() {
     var corpoTabela = $(".placar").find("tbody");
     var usuario = "Douglas"
