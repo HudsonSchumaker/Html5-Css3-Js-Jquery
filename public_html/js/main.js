@@ -1,3 +1,8 @@
+/*
+Hudson Schumaker
+SchumakerTeam Lab
+*/
+
 var tempoInicial = $("#tempo-digitacao").text();
 var campo = $(".campo-digitacao");
 
